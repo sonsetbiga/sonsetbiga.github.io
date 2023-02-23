@@ -1,0 +1,348 @@
+{
+    "name": "Menü",
+    "items" : [
+        {
+            "name": "Sıcak ve Soğuk İçecekler",
+            "items":[
+                {
+                    "name": "Sıcak İçecekler",
+                    "items":[]
+                },
+                {
+                    "name": "Bitki Çayları",
+                    "items":[]
+                },
+                {
+                    "name": "Türk Kahveleri",
+                    "items":[]
+                },
+                {
+                    "name": "Filtre Kahveler",
+                    "items":[]
+                },
+                {
+                    "name": "3. Nesil Kahveler",
+                    "items":[]
+                },
+                {
+                    "name": "Espressolu Kahveler",
+                    "items":[]
+                },
+                {
+                    "name": "Soğuk Kahveler",
+                    "items":[]
+                },
+                {
+                    "name": "Frappe",
+                    "items":[]
+                },
+                {
+                    "name": "Milkshake",
+                    "items":[]
+                },
+                {
+                    "name": "Smoothie",
+                    "items":[]
+                },
+                {
+                    "name": "Frozen",
+                    "items":[]
+                },
+                {
+                    "name": "Kokteyler",
+                    "items":[]
+                },
+                {
+                    "name": "Meşrubatlar",
+                    "items":[]
+                }
+            ]
+        },
+        {
+            "name": "Yemekler",
+            "items":[
+                {
+                    "name": "Kahvaltı",
+                    "items": [
+                        {
+                            "name": "Kahvaltı Tabağı",
+                            "price": 120,
+                            "info": "2 Çeşit peynir, domates, salatalık, tereyağ, bal, siyah, zeytin, yeşil zeytin, kahvaltılık sos, haşlanmış yumurta, patates kızartması, sigara böğreği, hamur kızartması, sosis, 2 bardak çay"
+                        },
+                        {
+                            "name": "Serpme Kahvaltı (2 Kişilik)",
+                            "price": 280,
+                            "info": "Kaşar peyniri, tulum peyniri, beyaz peynir, çeçil peynir, yeşillik, domates, salatalık, tereyağ, bal, kaymak, kahvaltılık sos, zeytinyağlı salça, yeşil zeytin, siyah zeytin, reçel, tahin, pekmez, çikolata, salam, sosis, sahanda sucuk, sahanda yumurta, patates kızartması, sigara böreği, su böreği, paçanga, hamur kızartması, demlik çay"
+                        },
+                        {
+                            "name": "İlaveler",
+                            "items": [
+                                {
+                                    "name": "Sahanda Yumurta",
+                                    "price": 45
+                                },
+                                {
+                                    "name": "Sahanda Sucuklu Yumurta",
+                                    "price": 56
+                                }, 
+                                {
+                                    "name": "Sahanda Pastırmalı Yumurta",
+                                    "price": 60
+                                },
+                                {
+                                    "name": "Omlet",
+                                    "price": 47
+                                },
+                                {
+                                    "name": "Peynirli Omlet",
+                                    "price": 51
+                                },
+                                {
+                                    "name": "Mantarlı Sebzeli Omlet",
+                                    "price": 53
+                                },
+                                {
+                                    "name": "Kaşarlı, Sucuklu Omlet",
+                                    "price": 58
+                                },
+                                {
+                                    "name": "Pastırmalı Omlet",
+                                    "price": 61
+                                },
+                                {
+                                    "name": "Menemen",
+                                    "price": 60
+                                },
+                                {
+                                    "name": "Kaşarlı Menemen",
+                                    "price": 63
+                                }
+                            ]
+                        }
+                        
+                    ]
+                },
+                {
+                    "name": "Sepetler",
+                    "items": [
+                        {
+                            "name": "Parmak Patates",
+                            "price": 60,
+                            "info": "Sade baharatlı"  
+                        },
+                        {
+                            "name": "Avcı Böreği",
+                            "price": 84,
+                            "info": "2 Adet Avcı Böreği ve parmak patates ile servis edilir"  
+                        },
+                        {
+                            "name": "Sigara Böreği",
+                            "price": 72,
+                            "info": "6 Adet sigara böreği ve parmak patates ile servis edilir"  
+                        },
+                        {
+                            "name": "Paçanga Böreği",
+                            "price": 85,
+                            "info": "3 adet Paçanga böreği ve patates ile servis edilir"  
+                        },
+                        {
+                            "name": "Sosis Sepeti",
+                            "price": 68,
+                            "info": "6 adet sosis ve parmak patates ile servis edilir"  
+                        },
+                        {
+                            "name": "Çıtır Tavuk",
+                            "price": 48,
+                            "info": "6 adet çıtır tavuk parçaları ve parmak patates ile servis edilir"  
+                        },
+                        {
+                            "name": "Soğan Halkası",
+                            "price": 68,
+                            "info": "6 adet soğan halkası ve parmak patates ile servis edilir"  
+                        },
+                        {
+                            "name": "Yeşilçam Sepeti",
+                            "price": 108,
+                            "info": "3 adet çıtır tavuk, 2 adet sosis, 2 adet sigara böreği, 3 adet soğan halkası, 2 adet patates kroket, parmak patates ile servis edilir"  
+                        },
+                        {
+                            "name": "Special Sonset Sepeti",
+                            "price": 130,
+                            "info": "3 adet çıtır tavuk, 1 adet avcı böreği, 1 adet paçanga böreği, 2 adet sigara böreği, 3 adet soğan halkası, 2 adet patates kroket, 2 adet kızarmış hellim peyniri, parmak patates ile servis edilir"  
+                        }
+                    ]
+                },
+                {
+                    "name": "Ekmek Arası",
+                    "items": [
+                        {
+                            "name": "Kaşarlı Tost",
+                            "price": 48,
+                            "info": "Parmak patates"  
+                        },
+                        {
+                            "name": "Sucuklu Tost",
+                            "price": 54,
+                            "info": "Parmak patates"  
+                        },
+                        {
+                            "name": "Karışık Tost",
+                            "price": 57,
+                            "info": "Sucuk, kaşar, parmak patates"  
+                        },
+                        {
+                            "name": "Ayvalık Tost",
+                            "price": 60,
+                            "info": "Parmak patates, salam, sucuk, sosis, kaşar peyniri, kornişon turşu, mayonez"  
+                        },
+                        {
+                            "name": "Aperatifler",
+                            "items": [
+                                {
+                                    "name": "3'lü Ekmek arası ızgara tavuk",
+                                    "price": 75,
+                                    "info": "Parmak patates ile"  
+                                },
+                                {
+                                    "name": "3'lü Ekmek arası köfte",
+                                    "price": 86,
+                                    "info": "Parmak patates ile"  
+                                },
+                                {
+                                    "name": "Peynirli Gözleme",
+                                    "price": 54,
+                                    "info": "Parmak patates, domates ve salatalık ile"  
+                                },
+                                {
+                                    "name": "Kaşarlı Gözleme",
+                                    "price": 54,
+                                    "info": "Parmak patates, domates ve salatalık ile"  
+                                },
+                                {
+                                    "name": "Kaşarlı, Peynirli Gözleme",
+                                    "price": 57,
+                                    "info": "Parmak patates, domates ve salatalık ile"  
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Burgerler",
+                    "items":[
+                        {
+                            "name": "Piliç Burger",
+                            "price": 80,
+                            "info": "Tavuk incik ızgara, çedar peyniri, dilim domates, marul, kornişonun turşu, 2 adet soğan halkası ve parmak patates ile servis edilir"  
+                        },
+                        {
+                            "name": "Chili Burger",
+                            "price": 93,
+                            "info": "Ev yapımı köfte, çedar peyniri, dilim domates, marul, kornişon turşu, jalepone acı biber, 2 adet soğan halkası ve parmak patates ile servis edilir"  
+                        },
+                        {
+                            "name": "Ottoman Burger",
+                            "price": 96,
+                            "info": "Ev yapımı köfte, çedar peyniri, dilim domates, marul, kornişon turşu, soslanmış mantar, 2 adet soğan halkası ve parmak patates ile servis edilir"  
+                        },
+                        {
+                            "name": "İtalyan Mozzarella Burger",
+                            "price": 96,
+                            "info": "Ev yapımı köfte, mozzarella peyniri, dilim domates, marul, kornişon turşu, 2 adet soğan halkası ve parmak patates ile servis edilir"  
+                        },
+                        {
+                            "name": "Füme Burger",
+                            "price": 110,
+                            "info": "Ev yapımı köfte, füme et, çedar peyniri, dilim domates, marul, kornişon turşu, 2 adet soğan halkası ve parmak patates ile servis edilir"  
+                        },
+                        {
+                            "name": "Hababam Burger",
+                            "price": 150,
+                            "info": "2 adet ev yapımı köfte, çedar peyniri, dilim domates, marul, kornişon turşu, 2 adet soğan halkası ve parmak patates ile servis edilir"  
+                        }
+                    ]
+                },
+                {
+                    "name": "Pizzalar",
+                    "items":[
+                        {
+                            "name": "Abone Pizza",
+                            "price": 120,
+                            "info": "mozzarella peyniri, pizza sosu, biftek dilimleri, tavuk dilimleri, renkli biberler, mantar"  
+                        },
+                        {
+                            "name": "Turko Pizza",
+                            "price": 98,
+                            "info": "mozzarella peyniri, pizza sosu, mısır, sosis, salam, sucuk, çarliston biber, mantar, kapya biberi, siyah zeytin"  
+                        },
+                        {
+                            "name": "Margarita",
+                            "price": 84,
+                            "info": "Mozzarella peyniri, pizza sosu, dilim domates"  
+                        },
+                        {
+                            "name": "Çok Peynirli Pizza",
+                            "price": 96,
+                            "info": "Mozzarella, cheddar peyniri, kaşar peyniri, rokfor peyniri"  
+                        },
+                        {
+                            "name": "Sumsucuklu Pizza",
+                            "price": 98,
+                            "info": "Mozeralla peyniri, pizza sosu, sucuk"  
+                        },
+                        {
+                            "name": "Bol Sosisli Pizza",
+                            "price": 90,
+                            "info": "Mozeralla peyniri, pizza sosu, sosis, cheddar peyniri"  
+                        },
+                        {
+                            "name": "Ateşli Piliç Pizza (Acılı)",
+                            "price": 93,
+                            "info": "Mozeralla peyniri, pizza sosu, jülyen kesim tavuk göğsü, jalepone acı biber, mantar, barbekü sosu, bol acılı domates sosu"  
+                        },
+                        {
+                            "name": "Ton Ton Pizza",
+                            "price": 97,
+                            "info": "Mozeralla peyniri, pizza sosu, soğan, mısır, ton balığı"  
+                        }
+                    ]
+                },
+                {
+                    "name": "Beyaz Etler",
+                    "items":[
+                        
+                    ]
+                },
+                {
+                    "name": "Kırmızı Etler",
+                    "items":[]
+                },
+                {
+                    "name": "Meksika Mutfağı",
+                    "items":[]
+                },
+                {
+                    "name": "Salatalar",
+                    "items":[]
+                },
+                {
+                    "name": "Makarnalar",
+                    "items":[]
+                }
+            ]
+        },
+        {
+            "name": "Tatlılar",
+            "items":[
+                {
+                    "name": "Tatlılar",
+                    "items":[]
+                },
+                {
+                    "name": "Pastalar",
+                    "items":[]
+                }
+            ]
+        }
+    ]
+}
