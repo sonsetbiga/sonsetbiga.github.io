@@ -5,8 +5,6 @@ var items = [];
 
 function render_category(category) {
     
-    console.log(category);
-
     title.innerHTML = category.name;
 
     for (var i = 0; i < category.items.length; ++i) {
