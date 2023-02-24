@@ -5,8 +5,6 @@ var items = [];
 
 function render_category(category) {
     
-    title.innerHTML = category.name;
-
     for (var i = 0; i < category.items.length; ++i) {
 
         const item = document.createElement('button');
